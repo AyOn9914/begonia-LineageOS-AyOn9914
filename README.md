@@ -5,14 +5,6 @@ LineageOS [Custom ROM](https://www.xda-developers.com/lineageos-20-android-13/) 
 
 [Features as video](https://www.youtube.com/watch?v=4LdUOon4Nuc) or [Features as text](https://www.xda-developers.com/lineageos-20-android-13/)
 
-[Screenshots](https://t.me/Apon77Mido/5270) or [Video](https://www.youtube.com/watch?v=KuQ9jIVmOXY)
+Distributed [here](https://t.me/s/RedmiNote8ProUpdates?before=1321)
 
-Distributed [here](https://t.me/rn4downloads/4885)
-
-Estimated installation no.: 150-500
-
-How to use this repository
--------------------
-
-* [Instructions if you want to develop AospExtended custom ROM as a developer](https://github.com/Apon77/mido-AospExtended-Apon77/blob/main/Instructions%20for%20developers.md)
-* [Instructions if you want to use AospExtended custom ROM in your device as a user](https://github.com/Apon77/mido-AospExtended-Apon77/blob/main/Instructions%20for%20users.md)
+Estimated installation no.: 100-200
