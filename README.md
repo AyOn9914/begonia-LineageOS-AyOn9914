@@ -1,7 +1,7 @@
 LineageOS custom ROM for Redmi Note 8 Pro
 ==============================
 
-LineageOS [Custom ROM](https://beebom.com/best-custom-roms-android-phones/) for Redmi Note 8 Pro(code name mido)
+LineageOS [Custom ROM](https://www.xda-developers.com/lineageos-20-android-13/) for Redmi Note 8 Pro(code name mido)
 
 [Features as video](https://www.youtube.com/watch?v=KuQ9jIVmOXY) or [Features as text](https://forum.xda-developers.com/t/rom-11-0-aospextended-rom-v8-0-unofficial-surya.4202905/)
 
