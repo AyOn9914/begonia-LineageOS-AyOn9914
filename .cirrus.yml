@@ -13,7 +13,7 @@ task:
   build_script:
     - source build/envsetup.sh
     - lunch lineage_begonia-userdebug
-    - mka bacon -j$(nproc --all)
+    - make -j$(nproc --all)
   ccache_stats_script:
     - ccache -s
   upload_script: |
