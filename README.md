@@ -3,7 +3,7 @@ LineageOS custom ROM for Redmi Note 8 Pro
 
 LineageOS [Custom ROM](https://www.xda-developers.com/lineageos-20-android-13/) for Redmi Note 8 Pro(code name begonia)
 
-[Features as video](https://www.youtube.com/watch?v=KuQ9jIVmOXY) or [Features as text](https://forum.xda-developers.com/t/rom-11-0-aospextended-rom-v8-0-unofficial-surya.4202905/)
+[Features as video](https://www.youtube.com/watch?v=4LdUOon4Nuc) or [Features as text](https://www.xda-developers.com/lineageos-20-android-13/)
 
 [Screenshots](https://t.me/Apon77Mido/5270) or [Video](https://www.youtube.com/watch?v=KuQ9jIVmOXY)
 
